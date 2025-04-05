@@ -8,7 +8,7 @@
     $servername = "localhost";
     $username = "root";
     $password = "";
-    $dbname = "orange";
+    $dbname = "greeen apple";
 
     $conn = mysqli_connect($servername,$username,$password,$dbname);
     if(!$conn){
